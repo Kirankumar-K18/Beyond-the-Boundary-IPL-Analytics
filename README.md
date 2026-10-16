@@ -1,10 +1,10 @@
-<<<<<<< HEAD
 <div align="center">
 
 # Beyond the Boundary — IPL Analytics
 <p align="center">
     <img src="screenshots/ipllogo.png" alt="IPL Logo" width="150">
 </p>
+
 ### Turning Cricket Data into Performance Insights
 
 **An Excel-based sports analytics project exploring IPL batting and bowling performance from 2008 to 2025.**
@@ -229,6 +229,3 @@ This project is intended for educational and portfolio purposes. Review the orig
 *Turning Cricket Data into Performance Insights*
 
 </div>
-=======
-# Beyond-the-Boundary-IPL-Analytics
->>>>>>> fa8cbc79ae014c48904d0e8e6340c9e6e1057a0d

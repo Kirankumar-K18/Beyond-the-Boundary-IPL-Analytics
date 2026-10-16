@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 # Beyond the Boundary — IPL Analytics
@@ -228,3 +229,6 @@ This project is intended for educational and portfolio purposes. Review the orig
 *Turning Cricket Data into Performance Insights*
 
 </div>
+=======
+# Beyond-the-Boundary-IPL-Analytics
+>>>>>>> fa8cbc79ae014c48904d0e8e6340c9e6e1057a0d

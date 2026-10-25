@@ -211,10 +211,11 @@ The rankings depend on the metrics, eligibility thresholds, and source data used
 
 **Kirankumar K**
 
-B.E. Computer Science and Engineering (Data Science)  
-RNS Institute of Technology, Bengaluru
+Computer Science and Data Science Engineering
 
-GitHub: [Kirankumar-K18](https://github.com/Kirankumar-K18)
+RNS Institute of Technology
+
+**GitHub:** https://github.com/Kirankumar-K18
 
 ---
 
